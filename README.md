@@ -20,3 +20,5 @@ What are the baselines that you will use to measure against for system performan
 
 ![Phase I](raw/latest/images/Phase-III-Deployment.png)
 
+![Phase III](./images/Phase-III-Deployment.png)
+
