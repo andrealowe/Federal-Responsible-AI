@@ -12,11 +12,19 @@ What are the quantitative performance metrics that will be used to evaluate this
 What are the baselines that you will use to measure against for system performance?
 
 
-# DIU Responsible AI Phases:
+# Reference 
+
+### DIU Responsible AI Phases
+
+Planning:
 
 ![Phase I](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-I-Planning.png?raw=true)
 
+Development:
+
 ![Phase II](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-II-Development.png?raw=true)
+
+Deployment:
 
 ![Phase III](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-III-Deployment.png?raw=true)
 
