@@ -16,15 +16,12 @@ What are the baselines that you will use to measure against for system performan
 
 ### DIU Responsible AI Phases
 
-Planning:
 
 ![Phase I](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-I-Planning.png?raw=true)
 
-Development:
 
 ![Phase II](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-II-Development.png?raw=true)
 
-Deployment:
 
 ![Phase III](https://github.com/andrealowe/Federal-Responsible-AI/blob/main/images/Phase-III-Deployment.png?raw=true)
 
